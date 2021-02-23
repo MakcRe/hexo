@@ -14,8 +14,8 @@ onlineConfigPath: './config.json'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hexo-black-rho.vercel.app
-permalink: :id.html
+url: https://blog.zybbs.xyz/
+permalink: :id
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
