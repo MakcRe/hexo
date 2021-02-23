@@ -1,0 +1,23 @@
+{
+    "indexPath": "/",
+    "port": 4001,
+    "wsPort": 4002,
+    "secret": "Zybbs_Blog",
+    "user": "root",
+    "passwordHash": "$2a$10$kotbMZ46Bw9uutpLzk6tTeEl5ppY9dS38hd1zVC2sRRU1uKSZu66y",
+    "autoSave": 300000,
+    "noticeUrl": "",
+    "pull": [
+        "git pull"
+    ],
+    "push": [
+        "git add --all .",
+        "git commit -m 'update'",
+        "git push"
+    ],
+    "ssl": false,
+    "private": {
+        "key": "",
+        "crt": ""
+    }
+}
